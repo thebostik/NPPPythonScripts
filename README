@@ -1,0 +1,5 @@
+To use these scripts, you'll need Notepad++ (npp) and a Python Script manager plugin.
+
+I'm using NPPPythonScript for that purpose.
+
+The CSV column jumper is my first script, but as I have to edit .del files for testing I will probably make more.
